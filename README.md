@@ -1,8 +1,15 @@
-## Hi there 👋
+## Rodrigo Soares
 
-- Desenvolvedor backend com 6 anos em telecom, atuando em sistemas BSS/OSS.
-- Construí soluções para o NGIN (OCS da Vivo Brasil), base Oracle com mais de 200 milhões de clientes.
-- Desenvolvo packages PL/SQL para a solução de migração do sistema Inventory para empresas de telecomunicações como TIM Itália, UZO Portugal e Fibrasil. 
-- Atuo com processamento e correção de dados em massa, migrações e APIs, usando Python, Flask, Node.js/ExpressJS, Oracle PL/SQL, MongoDB e Docker. 
-- Reduzi em mais de 50% o tempo de extração de uma base Apache Cassandra com cerca de 30 milhões de clientes, usando multiprocessing em Python.
-- Sou pós-graduado em Ciência de Dados e Big Data e tenho inglês profissional (B2).
+Backend Developer · Telecom BSS/OSS · Salvador, Brasil
+- 6 anos em telecom: OCS/charging (Vivo, 200M+ clientes) e migração de Inventory
+ (TIM Itália, UZO Portugal, Fibrasil)
+- Processamento e correção de dados em massa, migrações e APIs REST
+  
+### Projetos em destaque
+- [SED99](https://github.com/rosoareslv/SED99) - dataset de evolução de software (99 repositórios, pesquisa acadêmica)
+- [productCatalog](https://github.com/rosoareslv/productCatalog) - API REST em Node.js/Express com JWT + refresh token,
+ Redis, MongoDB, OpenAPI, Jest e Docker Compose
+- [Python-Scripts](https://github.com/rosoareslv/Python-Scripts) - templates de paralelismo (multiprocessing/threads) e utilitários
+
+### Stack
+Python · Flask · Node.js · Express · Oracle PL/SQL · MongoDB · Redis · Cassandra · Docker
