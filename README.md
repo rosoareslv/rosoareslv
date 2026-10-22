@@ -1,7 +1,7 @@
 ## Rodrigo Soares
 
 Backend Developer · Telecom BSS/OSS · Salvador, Brasil
-- 6 anos em telecom: OCS/charging (Vivo, 200M+ clientes) e migração de Inventory
+- 6 anos em telecom: RM(Revenue Manager) da Ericsson (30M+ clientes), NGIN OCS Vivo, (200M+ clientes) e migrador para o Inventory
  (TIM Itália, UZO Portugal, Fibrasil)
 - Processamento e correção de dados em massa, migrações e APIs REST
   
