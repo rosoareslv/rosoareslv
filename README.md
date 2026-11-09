@@ -7,8 +7,7 @@ Backend Developer · Telecom BSS/OSS · Salvador, Brasil
   
 ### Projetos em destaque
 - [SED99](https://github.com/rosoareslv/SED99) - Dataset de evolução de software, TCC.
-- [productCatalog](https://github.com/rosoareslv/productCatalog) - API REST em Node.js/Express com JWT + refresh token,
- Redis, MongoDB, OpenAPI, Jest e Docker Compose
+- [sessionguard-api](https://github.com/rosoareslv/sessionguard-api) - REST API with production-grade JWT authentication
 - [Python-Scripts](https://github.com/rosoareslv/Python-Scripts) - Templates de paralelismo (multiprocessing/threads) e utilitários
 
 ### Stack
